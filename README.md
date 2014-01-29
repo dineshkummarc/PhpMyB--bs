@@ -1,4 +1,3 @@
-
 Future Changes or left out bugs :-
 
 i have to implement these rest out bugs in this game to enhance the game.
