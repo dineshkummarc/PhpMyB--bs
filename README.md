@@ -19,6 +19,10 @@ https://github.com/dineshkummarc/PressMyB--bsHard/issues?sort=created&state=open
 
 PressHard_Final
 =========
+soon to update
+
+PressHard_Version2
+=========
 Fixed Bugs :-
 1. Added Visual Studio Version along with Html5 Version.
 2. Added size (size can vary upto 5 Unit from 1 Unit)changing utility.
