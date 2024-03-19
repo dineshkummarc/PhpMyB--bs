@@ -21,11 +21,5 @@ Fixed Bugs :-
 
 PressHard_Initial
 ================
-Future Changes :-
-i have to implement these rest out bugs in this game to enhance the game.
-
-- [x] Hand cursor or icon while mouse cursor is on B--bs.
-- [x] Extention for Pu--y in the game
-- [x] Dynamic image change for face
-- [x] Link for dynamic image change
-- [x] Dynamic Background for whole of the game
+see isues list and other changes onto page, it has older release commits :-
+https://github.com/dineshkummarc/PressMyB--bsHard/issues?sort=created&state=closed
