@@ -5,7 +5,7 @@ Change log sheet:-
 PressHard_Dev
 =============
 Current Bugs in development :-
-see isues list and other changes onto page, it has older two release commits :-
+- [x] see isues list and other changes onto page, it has older two release commits :-
 https://github.com/dineshkummarc/PressMyB--bsHard/issues?sort=created&state=open
 
 PressHard_Final
@@ -21,5 +21,5 @@ Fixed Bugs :-
 
 PressHard_Initial
 ================
-see isues list and other changes onto page, it has older release commits :-
+- [x] see isues list and other changes onto page, it has older release commits :-
 https://github.com/dineshkummarc/PressMyB--bsHard/issues?sort=created&state=closed
